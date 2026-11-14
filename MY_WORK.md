@@ -470,12 +470,12 @@ Thread scheduling and semaphore coordination.
 - [ ] GitHub account uses the university email (`@std.psau.edu.sa`)
 
 **Code**
-- [ ] Student ID is set in `SchedulerSimulationSync.java` (line 304)
-- [ ] My code is based **only** on the starter of this repository (nothing copied from previous assignments)
-- [ ] Code compiles and runs with no errors, and terminates by itself (no `⛔ WATCHDOG`)
-- [ ] Feature 1 (ready queue lock), Feature 2 (statistics locks) and Feature 3 (semaphore, no busy waiting) all work
+- [ x] Student ID is set in `SchedulerSimulationSync.java` (line 304)
+- [ x] My code is based **only** on the starter of this repository (nothing copied from previous assignments)
+- [x ] Code compiles and runs with no errors, and terminates by itself (no `⛔ WATCHDOG`)
+- [x ] Feature 1 (ready queue lock), Feature 2 (statistics locks) and Feature 3 (semaphore, no busy waiting) all work
 - [ ] **The four verification lines are ✔ in 5 consecutive runs**
-- [ ] Every lock is released in a `finally` block
+- [x ] Every lock is released in a `finally` block
 - [ ] `RaceWindow`, `Config`, the verification block and the watchdog are **unchanged**
 - [ ] Each feature has clear comments
 
@@ -486,12 +486,12 @@ Thread scheduling and semaphore coordination.
 - [ ] Everything is **pushed** to GitHub
 
 **This file (`MY_WORK.md`)**
-- [ ] Full name and student ID filled in at the top
-- [ ] Development log has **5+ entries** on different dates
-- [ ] Reflection: 4 questions, 5-7 sentences each
-- [ ] Technical answers: 4 questions, 3-5 sentences each, with examples from **your** output (starter output **and** final output pasted in Question 1)
+- [x ] Full name and student ID filled in at the top
+- [x] Development log has **5+ entries** on different dates
+- [x] Reflection: 4 questions, 5-7 sentences each
+- [x ] Technical answers: 4 questions, 3-5 sentences each, with examples from **your** output (starter output **and** final output pasted in Question 1)
 - [ ] No `[...]` placeholders left
-- [ ] No section headers deleted
+- [x ] No section headers deleted
 
 **Video**
 - [ ] 2-3 minutes long, named `StudentID_Assignment3_Demo.mp4`
